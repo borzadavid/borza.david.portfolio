@@ -1,0 +1,110 @@
+body{
+	background :rgb(136 223 114);
+	margin: 0px;
+}
+header{
+	background-color: grey;
+	font-size: 40px
+
+}
+h1{
+	font-size: 60px;
+	color:blue;
+	border: 3px solid green;
+	border-radius: 20px;
+	margin: 0px;
+	background-color: #d7ff20;
+}
+.Gomb{
+	
+	border-radius: 10px;
+	display: inline;
+	/*margin: 0px 10px;*/
+background-color: black;
+
+}
+.Gomb_jobbra{
+	float: right;
+
+}
+.Gomb_Aktualis{
+	background-color: red;
+}
+a{
+	color: white;
+	 text-decoration: none;
+}
+h2{
+	font-size: 2rem;
+	background-color: grey;
+	color: white;
+	border-radius: 10px;
+	width: 30%;
+	margin: 5% 15%;
+	text-align: center;
+}
+.Életrajz{
+	color: blue;
+font-size: 30px;
+width:40%;
+background-color: #d7ff20;
+border-radius: 10px;
+margin: 5% 10%;
+margin-bottom: 0px;
+text-align: center;
+}	
+img{
+	max-height: 70%;
+	max-width: 40%;
+display: inline;
+margin-left: 55%;
+margin-right: 5%;
+margin-top: -100%;
+border-radius: 10px;
+}
+.A4{
+	max-width: 20%;
+	margin-top: 20px;
+	display: inline;
+	border-radius: 0px;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+.A3{
+	max-width: 40%;
+	margin-top: 20px;
+	display: inline;
+	border-radius: 0px;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+footer{
+	float: right;
+	color: blue;
+}
+h3{
+	background-color:#d7ff20; 
+}
+.facebook{
+	color: blue;
+	text-decoration: underline;
+}
+h4{
+	color: blue;
+	float: right;
+font-size: 30px;
+width:60%;
+background-color: #d7ff20;
+border-radius: 10px;
+margin: 5% 5%;
+margin-top: -40%;
+text-align: center;
+}
+.Terv{
+	max-width: 28%;
+}
+.link{
+	font-size: 1rem;
+	color: blue;
+	text-decoration: underline;
+}
